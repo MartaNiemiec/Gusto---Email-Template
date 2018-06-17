@@ -1,2 +1,2 @@
-# Gusto---Email-Template
+# Gusto - Email Template
 PSD to HTML project
